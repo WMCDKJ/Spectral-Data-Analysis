@@ -34,10 +34,8 @@ This is obtained by using the trapezoidal rule to estimate the integral.
 ***User Controls***
 Load data: loads data from a user-specified location and reads it into program memory.
 Plot data: plots the current data (the user is prompted to load the data first if it hasn't been loaded yet). 
-Remove linear background: when two points in the plot are clicked, this removes the linear background from the data after drawing a line as described above.
-			If there's no data in the program memory yet, the user is given an error message about it.
-Calculate intensities: Once the user selects the interval by clicking on the figure, the intensity of peaks is calculated. The result is printed in the text box below the plot. 
-			If there's no data in the program memory yet, the user is given an error message about it.
+Remove linear background: when two points in the plot are clicked, this removes the linear background from the data after drawing a line as described above. If there's no data in the program memory yet, the user is given an error message about it.
+Calculate intensities: Once the user selects the interval by clicking on the figure, the intensity of peaks is calculated. The result is printed in the text box below the plot. If there's no data in the program memory yet, the user is given an error message about it.
 Save figure: saves an image of the current plot. The user uses a separate dialog for select a filename and destination for saving the figure. 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
